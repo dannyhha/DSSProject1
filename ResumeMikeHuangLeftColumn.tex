@@ -1,0 +1,130 @@
+
+\documentclass[10pt,a4paper,ragged2e]{altacv}
+
+
+
+\geometry{left=2cm,right=10cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1.25cm,bottom=1.25cm}
+
+
+\ifxetexorluatex
+
+  \setmainfont{Carlito}
+\else
+
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage[default]{lato}
+\fi
+
+
+\definecolor{VividPurple}{HTML}{000000}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{2E2E2E}
+\colorlet{heading}{VividPurple}
+\colorlet{accent}{VividPurple}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+
+
+\addbibresource{sample.bib}
+
+\begin{document}
+\name{Mike Huang}
+\tagline{Software Engineer, excited to learn, laugh, and live}
+
+
+\personalinfo{%
+
+  \email{mhuang448@berkeley.edu}
+  \phone{858-774-1253}
+
+  \location{Berkeley, CA}
+ \homepage{youtube.com/strictlydumpling}
+
+  \linkedin{linkedin.com/in/mikeyhuang}
+   \github{github.com/mikeyhuang} 
+}
+
+
+\begin{fullwidth}
+\makecvheader
+\end{fullwidth}
+
+\AtBeginEnvironment{itemize}{\small}
+
+
+\cvsection[ResumeMikeHuangRightColumn]{Work Experience}
+
+\cvevent{Senior Database Manager}{Citris Banatao Institute}{Jan 2019 -- present}{Berkeley, CA}
+\begin{itemize}
+\item Organize and manage database of resources related to innovation and entrepreneurship
+\smallskip
+\item integrate filtering and tagging system to make resource access easy and user-friendly
+\item collaborate with other innovation databases working in the space to develop a unified database that all the databases will pull from
+\smallskip
+\item ensure
+\end{itemize}
+
+\cvevent{Business Development Consultant}{ResultCare ( HealthCare AI Startup )}{Feb 2018 -- May 2018}{Berkeley, CA}
+\begin{itemize}
+\item worked with team of ph.D candidates to determine best business model for the healthcare startup to make consistent revenue
+\smallskip
+\item sourced investors from VCs and investment firms to raise money
+\smallskip
+\item collaborated with team to deliver best pitch to investors
+\smallskip
+\item managed database of contacts with investors to reach out to
+\end{itemize}
+
+% \divider
+
+
+\cvsection{Education/Courses}
+\cvevent{Electrical Engineering and Computer Science Major, Psychology/Economy minor}{UC Berkeley}{2017-2021}{Berkeley, CA}
+\smallskip
+
+\begin{itemize}
+\item 3.35 GPA 
+\smallskip
+\item 2400 SAT
+\smallskip
+\item High School valedictorian
+\smallskip
+\item CS61A: Structure and Interpretation of Computer Programs
+\smallskip
+\item CS61B: Fundamental Data Structures
+\smallskip
+\item UGBA10: Fundamentals of Business
+\smallskip
+\item Psych C61: Brain, Mind and Behavior
+\smallskip
+\item INFO 98: Data Science Skills
+\smallskip
+\item Indeg 295: Berkeley Method of Entrepreneurship Bootcamp
+\smallskip
+\item EE16a: Designing Information Devices and Systems
+\smallskip
+\item Massage/Welness DeCal
+\smallskip
+\item Build the Future DeCal
+\smallskip
+\item Anthro 3AC: Cultural Anthropology
+\end{itemize}
+
+
+\clearpage
+
+
+
+\nocite{*}
+
+
+
+
+
+
+\end{document}
