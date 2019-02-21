@@ -1,10 +1,10 @@
 # Data Science Skills Decal Project 1
 
-**Team Members:** 
-Ahmed Morsi
-Danny Ha
-Karina Le
+**Team Members:**
 Michael Huang
+Danny Ha
+Ahmed Morsi
+Karina Le
 
 **Resumes and Descriptions**  
 
@@ -16,9 +16,9 @@ This repo includes the resumes of the following people:
 * Second year student studying EECS at UC Berkeley. Passionate about how technology and business can intersect to create better products and experiences. Current interests include blockchain development and data science. Love all sweet things and think Almond Joys are bomb. Looking for internships, so know how to take rejection like a pro.
 * Jobs interested in: Software engineer, product manager, Host of Man vs. Food
 
-###### [Name of Person that Resume 2 is about]
-* 5 sentence summary describing the person from Resume 2.
-* Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
+###### [Danny Ha]
+* First year student intending to study Data Science as well as minor in Industrial Engineering and Operations Research. I am particularly interested in the cross section of city planning and data. I would like to improve the life of residents in cities using data. I am hoping to stay in the Bay Area over the summer with an internship either at a start-up or city planning related organization. I also have a passion in photography with I am pursuing through my portrait and event photography business.
+* Jobs interested in: Director at Sidewalk Labs, Creative Director of Zara, Data Scientist at Nike
 
 ###### [Name of Person that Resume 3 is about]
 * 5 sentence summary describing the person from Resume 3.
